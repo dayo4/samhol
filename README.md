@@ -90,6 +90,6 @@ Follow these steps to it set up on your local machine:
 
 I welcome contributions from the community! If you'd like to contribute to Orbrift, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
