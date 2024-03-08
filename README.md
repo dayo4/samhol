@@ -1,7 +1,7 @@
 ```markdown
 # Orbrift - Adedayo Adeniyi
 
-A personal website build using VueJs and NodeJs.
+A personal website build using VueJs (Nuxt).
 
 ## Table of Contents
 
@@ -86,10 +86,13 @@ Follow these steps to it set up on your local machine:
 <!-- ## Usage -->
 
 
-## Contributing
+<!-- ## Contributing
 
-I welcome contributions from the community! If you'd like to contribute to Orbrift, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+I welcome contributions from the community! If you'd like to contribute to Orbrift, please follow the [Contributing Guidelines](CONTRIBUTING.md). -->
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details. -->
+
+## 🙏 Support
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
