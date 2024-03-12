@@ -1,9 +1,8 @@
 <template>
   <GlobalWrapper :subText="false">
-    <template #Title> Privacy Policy </template>
+    <template #Title> Privacy Policy</template>
 
-    <template #WrapperBody>
-      <section class="flex justify-center">
+i      <section class="flex justify-center">
         <div class="basis-full sm:basis-10/12 md:basis-8/12 bg-white px-5">
           <h4 class="text-blue-gray-600">
             I am committed to protecting the privacy of those who visit this
