@@ -25,28 +25,15 @@ export default {
       {
         title: "Intuitive UI Designs",
         content: `Enhance user experiences with user-friendly interfaces that engage and convert.`,
-        expanded: false,
       },
       {
         title: "Dynamic Web Apps",
         content: `Deliver mobile-app-like experiences with fast navigation and seamless user interactions.`,
-        expanded: false,
       },
-      // {
-      //   title: "Elevated E-commerce",
-      //   content: `Drive online success with tailored e-commerce solutions that boost sales and customer satisfaction.`,
-      //   expanded: false,
-      // },
       {
-        title: "Robust Back-end Solutions",
-        content: `Empower your applications with fast Node.js frameworks on cutting-edge Cloud Platforms.`,
-        expanded: false,
+        title: "Robust APIs and AI integrations",
+        content: `Take your applications to the next level with powerful APIs and AI tools.`,
       },
-      // {
-      //   title: "Strategic Content Management",
-      //   content: `Boost organic traffic through SEO-optimized content with popular CMS platforms.`,
-      //   expanded: false,
-      // },
     ]);
 
     let intervalId;

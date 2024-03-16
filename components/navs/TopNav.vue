@@ -3,7 +3,7 @@
     <div class="flex items-center justify-between shadow-lg">
       <router-link to="/" class="Logo flex items-center px-2 mr-2">
         <div v-html="$appLogo('white', 'logo-x-small mr-2')"></div>
-        orbrift
+        <!-- orbrift -->
       </router-link>
 
       <!-- SEARCH ICON FOR MOBILE SCREEN -->

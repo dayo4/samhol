@@ -6,7 +6,7 @@
         <!-- Intro -->
         <div class="w-full text-center pt-1">
           <h2 class="text-white text-[26px] sm:text-4xl mb-0">ADEDAYO ADENIYI</h2>
-          <h5 class="text-white text-xl mt-3 mb-0 z-0 relative after:content-[''] after:absolute after:-bottom-1 after:left-[50%] after:-ml-20 after:w-[160px] after:h-4 after:bg-my-pri-color after:bg-opacity-25 after:-z-[1]">Web Developer</h5>
+          <h5 class="text-white text-xl mt-3 mb-0 z-0 relative after:content-[''] after:absolute after:-bottom-1 after:left-[50%] after:-ml-20 after:w-[160px] after:h-4 after:bg-my-pri-color after:bg-opacity-25 after:-z-[1]">Front-end Engineer</h5>
           <h3 class="text-my-pri-color text-[28px] sm:text-[32px] xl:text-[35px] mt-12 mb-2 py-0 px-12">Creating Modern Software Solutions</h3>
         </div>
 
@@ -24,12 +24,6 @@
         <!-- Summary Accordion Component -->
         <Accordion />
       </div>
-
-      <!-- logo -->
-      <!-- <div
-        v-html="$appLogo('white')"
-        class="Logo flex j-c-center noselect"
-      ></div> -->
 
       <!-- CTA Button -->
       <!-- <div class="flex j-c-center my-10">
@@ -49,16 +43,10 @@
       <span>Tech Stack </span>
     </h3>
 
-    <!-- Tech Stack Icons Slider Component -->
     <ClientOnly>
       <TechStackSlider />
     </ClientOnly>
-
-    <!-- <section class="SubText flex j-c-center">
-      <div class="xs12 sm9 md4">
-        Your Online Profile, Simplified and Elevated. Let's do it
-      </div>
-    </section> -->
+    <!-- Tech Stack Icons Slider Component -->
 
     <section class="mb-12">
       <h3 class="SectionSubHead">
@@ -210,20 +198,6 @@ export default {
         detail:
           "Your website and app should reflect your brand's personality. Whether you prefer a minimalist approach or a fully customized experience, I create solutions that showcase the value of your products or services effectively.",
       },
-      // {
-      //   img: "",
-      //   text: "Agile Development Approach",
-      //   link: "/defaults/pgs/icons/secure.png",
-      //   detail:
-      //     "Through an agile development methodology, I deliver iterative solutions that evolve with your requirements. This approach allows for flexibility and quick adaptations on your software development projects.",
-      // },
-      // {
-      //   img: "",
-      //   text: "Integration with Third-Party Services",
-      //   link: "/defaults/pgs/icons/secure.png",
-      //   detail:
-      //     "Maximize the functionality of your apps by easily integrating it with third-party services. From e-commerce platforms to payment gateways and CRM systems, I ensure smooth integration to enhance your users experience and business operations.",
-      // },
       {
         img: "effect",
         text: "Streamlined Project Workflow",
@@ -231,13 +205,6 @@ export default {
         detail:
           "I employ user-friendly tools and streamlined processes to make communication hassle-free, ensuring a secure and efficient workflow.",
       },
-      // {
-      //   img: "",
-      //   text: "Continuous Support and Maintenance",
-      //   link: "/defaults/pgs/icons/secure.png",
-      //   detail:
-      //     "I provide ongoing support and maintenance services to keep your website or application running smoothly. From updates and security enhancements to performance optimizations, I ensure your digital presence remains robust and up-to-date.",
-      // },
     ];
 
     return {
@@ -248,15 +215,6 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-// .SubText {
-//   text-align: center;
-//   font-size: 24px;
-//   color: $pri-color;
-//   background-color: $sec-color-trans;
-//   padding: 15px;
-//   margin-bottom: 40px;
-// }
-
 .SectionSubHead {
   position: relative;
   color: $blue-grey;
@@ -271,5 +229,4 @@ export default {
     background-color: $pri-color;
   }
 }
-
 </style>

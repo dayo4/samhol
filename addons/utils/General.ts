@@ -75,7 +75,7 @@ export class General {
     /* vue-meta abstraction method */
     metaInfo(data: MyMetaInfo) {
         const defaults = {
-            title: 'Samuel Adeniyi - Fullstack Developer - ',
+            title: 'Adedayo Adeniyi - Front-end Engineer - ',
             content: "Crafting innovative websites, applications, and digital solutions for creative brands. Enhanced user experiences with stunning, user-friendly interfaces that engage and convert.",
             image: 'https://orbrift.com/defaults/pgs/software_websites_design_web_apps_development.jpg',
             url: 'https://orbrift.com/',
